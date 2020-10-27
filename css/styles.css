@@ -1,9 +1,4 @@
 body {
-  background-color: #a8dda8;
-}
-
-body {
-  color: #fff;
   line-height: 2;
 }
 
@@ -13,4 +8,12 @@ hr {
   border-color: grey;
   border-width: 5px;
   width: 5%;
+}
+
+a {
+  text-decoration: none;
+}
+
+.github-link {
+  padding: 1%;
 }
